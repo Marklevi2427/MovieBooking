@@ -1,0 +1,4 @@
+#this will ignore all the modules when commiting on the github repo
+
+
+node_modules 
